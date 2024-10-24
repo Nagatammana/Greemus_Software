@@ -7,7 +7,7 @@ public class Thired {
 	public static void main(String[] args) {
 		String url = "jdbc:mysql://localhost:3306/firstdatabase";
 		String user = "root";
-		String password = "Tammana@24";
+		String password = "type Password";
 		String CreateTable = "Create Table person1(" + 
 		                       "id Int Primary Key ," +
 				                "name Varchar(50), " + 
